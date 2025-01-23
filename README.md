@@ -1,4 +1,4 @@
-![Brainly Style Guide](cover.png)
+ ![Brainly Style Guide](cover.png)
 
 This project is a living style guide of all basic front-end components used at Brainly.
 
